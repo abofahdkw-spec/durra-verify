@@ -1,1 +1,41 @@
-Lyog2KfZhNin2LPZhSDYp9mE2YXYudix2YjYtiDZhNmE2LTYsdmD2Kkg4oCUINmF2LXYr9ixINmI2KfYrdivINmE2YPZhCDYp9mE2LXZgdit2KfYqiAqLwooZnVuY3Rpb24oKXsKICB2YXIgREVGQVVMVD0n2LTYsdmD2Kkg2KfZhNiv2LHYqSDYp9mE2LnZhdix2KfZhtmK2Kkg2YTZhNiq2KzYp9ix2Kkg2KfZhNi52KfZhdipINmI2KfZhNmF2YLYp9mI2YTYp9iqJzsKICB2YXIgR0tFWT0nZHVycmFfY29tcGFueV9uYW1lX2dsb2JhbCc7CiAgZnVuY3Rpb24ga2V5Rm9yKGlkKXsgcmV0dXJuICdkdXJyYV9jb21wYW55X25hbWVfJysoaWR8fCdkZWZhdWx0Jyk7IH0KICBmdW5jdGlvbiBnZXQoKXsKICAgIHRyeXsgdmFyIHM9bG9jYWxTdG9yYWdlLmdldEl0ZW0oR0tFWSk7IHJldHVybiAocyYmcy50cmltKCkpP3M6REVGQVVMVDsgfQogICAgY2F0Y2goZSl7IHJldHVybiBERUZBVUxUOyB9CiAgfQogIGZ1bmN0aW9uIGdldEZvcihpZCl7CiAgICB0cnl7IHZhciBzPWxvY2FsU3RvcmFnZS5nZXRJdGVtKGtleUZvcihpZCkpOyBpZihzJiZzLnRyaW0oKSkgcmV0dXJuIHM7IH1jYXRjaChlKXt9CiAgICByZXR1cm4gZ2V0KCk7CiAgfQogIGZ1bmN0aW9uIGVzYyh2KXsgcmV0dXJuIFN0cmluZyh2PT1udWxsPycnOnYpLnJlcGxhY2UoL1smPD4iJ10vZyxmdW5jdGlvbihjKXtyZXR1cm4geycmJzonJmFtcDsnLCc8JzonJmx0OycsJz4nOicmZ3Q7JywnIic6JyZxdW90OycsIiciOicmIzM5Oyd9W2NdfSk7IH0KICBmdW5jdGlvbiBzcGxpdChuYW1lKXsKICAgIHZhciBuPVN0cmluZyhuYW1lfHxERUZBVUxUKTsKICAgIHZhciBwPW4ucmVwbGFjZSgvXti02LHZg9ipXHMqLywnJykuc3BsaXQoL1xzKyg/PdmE2YTYqtis2KfYsdipfNmE2YQpLyk7CiAgICByZXR1cm4geyBtYWluOnBbMF18fG4sIHN1YjpwLnNsaWNlKDEpLmpvaW4oJyAnKSB9OwogIH0KICBmdW5jdGlvbiBub3RpZnkoKXsKICAgIHRyeXsgd2luZG93LmRpc3BhdGNoRXZlbnQobmV3IEV2ZW50KCdkdXJyYTpjb21wYW55LWNoYW5nZWQnKSk7IH1jYXRjaChlKXt9CiAgICB0cnl7IGlmKHdpbmRvdy5kdXJyYSYmd2luZG93LmR1cnJhLnNldENvbXBhbnlOYW1lKSB3aW5kb3cuZHVycmEuc2V0Q29tcGFueU5hbWUoZ2V0KCkpOyB9Y2F0Y2goZSl7fQogIH0KICBmdW5jdGlvbiBzZXQobmFtZSxpZCl7CiAgICBuYW1lPVN0cmluZyhuYW1lfHwnJykudHJpbSgpOyBpZighbmFtZSkgbmFtZT1ERUZBVUxUOwogICAgdHJ5eyBsb2NhbFN0b3JhZ2Uuc2V0SXRlbShHS0VZLG5hbWUpOyBpZihpZCkgbG9jYWxTdG9yYWdlLnNldEl0ZW0oa2V5Rm9yKGlkKSxuYW1lKTsgfWNhdGNoKGUpe30KICAgIG5vdGlmeSgpOwogIH0KICB3aW5kb3cuRHVycmFDb21wYW55PXsgZ2V0OmdldCwgZ2V0Rm9yOmdldEZvciwgc2V0OnNldCwgZXNjOmVzYywgc3BsaXQ6c3BsaXQsIERFRkFVTFQ6REVGQVVMVCwgbm90aWZ5Om5vdGlmeSB9OwogIGZ1bmN0aW9uIGFwcGx5KCl7CiAgICB2YXIgbmFtZT1nZXQoKSwgcGFydHM9c3BsaXQobmFtZSk7CiAgICBmdW5jdGlvbiBlYWNoKHNlbCxmbil7IHZhciBuPWRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoc2VsKTsgZm9yKHZhciBpPTA7aTxuLmxlbmd0aDtpKyspIGZuKG5baV0pOyB9CiAgICBlYWNoKCdbZGF0YS1jb21wYW55LW5hbWVdJyxmdW5jdGlvbihlbCl7IGVsLnRleHRDb250ZW50PW5hbWU7IH0pOwogICAgZWFjaCgnW2RhdGEtY29tcGFueS1tYWluXScsZnVuY3Rpb24oZWwpeyBlbC50ZXh0Q29udGVudD1wYXJ0cy5tYWluOyB9KTsKICAgIGVhY2goJ1tkYXRhLWNvbXBhbnktc3ViXScsZnVuY3Rpb24oZWwpeyBlbC50ZXh0Q29udGVudD1wYXJ0cy5zdWI7IH0pOwogICAgZWFjaCgnW2RhdGEtY29tcGFueS1lbXB0eV0nLGZ1bmN0aW9uKGVsKXsgZWwudGV4dENvbnRlbnQ9Jyc7IH0pOwogICAgZG9jdW1lbnQudGl0bGU9ZG9jdW1lbnQudGl0bGUuc3BsaXQoREVGQVVMVCkuam9pbihuYW1lKS5zcGxpdCgn2KfZhNiv2LHYqSDYp9mE2LnZhdix2KfZhtmK2KknKS5qb2luKHBhcnRzLm1haW4pOwogICAgbm90aWZ5KCk7CiAgfQogIGlmKGRvY3VtZW50LnJlYWR5U3RhdGU9PT0nbG9hZGluZycpIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ0RPTUNvbnRlbnRMb2FkZWQnLGFwcGx5KTsgZWxzZSBhcHBseSgpOwp9KSgpOwo=
+/* الاسم المعروض للشركة — مصدر واحد لكل الصفحات */
+(function(){
+  var DEFAULT='شركة الدرة العمرانية للتجارة العامة والمقاولات';
+  var GKEY='durra_company_name_global';
+  function keyFor(id){ return 'durra_company_name_'+(id||'default'); }
+  function get(){
+    try{ var s=localStorage.getItem(GKEY); return (s&&s.trim())?s:DEFAULT; }
+    catch(e){ return DEFAULT; }
+  }
+  function getFor(id){
+    try{ var s=localStorage.getItem(keyFor(id)); if(s&&s.trim()) return s; }catch(e){}
+    return get();
+  }
+  function esc(v){ return String(v==null?'':v).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]}); }
+  function split(name){
+    var n=String(name||DEFAULT);
+    var p=n.replace(/^شركة\s*/,'').split(/\s+(?=للتجارة|لل)/);
+    return { main:p[0]||n, sub:p.slice(1).join(' ') };
+  }
+  function notify(){
+    try{ window.dispatchEvent(new Event('durra:company-changed')); }catch(e){}
+    try{ if(window.durra&&window.durra.setCompanyName) window.durra.setCompanyName(get()); }catch(e){}
+  }
+  function set(name,id){
+    name=String(name||'').trim(); if(!name) name=DEFAULT;
+    try{ localStorage.setItem(GKEY,name); if(id) localStorage.setItem(keyFor(id),name); }catch(e){}
+    notify();
+  }
+  window.DurraCompany={ get:get, getFor:getFor, set:set, esc:esc, split:split, DEFAULT:DEFAULT, notify:notify };
+  function apply(){
+    var name=get(), parts=split(name);
+    function each(sel,fn){ var n=document.querySelectorAll(sel); for(var i=0;i<n.length;i++) fn(n[i]); }
+    each('[data-company-name]',function(el){ el.textContent=name; });
+    each('[data-company-main]',function(el){ el.textContent=parts.main; });
+    each('[data-company-sub]',function(el){ el.textContent=parts.sub; });
+    each('[data-company-empty]',function(el){ el.textContent=''; });
+    document.title=document.title.split(DEFAULT).join(name).split('الدرة العمرانية').join(parts.main);
+    notify();
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',apply); else apply();
+})();
